@@ -1,0 +1,13 @@
+{
+  "name": "Nodes",
+  "version": "1.0.0",
+  "author": "Rekey <rekey@me.com>, Neo <nihgwu@live.com>",
+  "dependencies": {
+    "koa": "0.13.0",
+    "mongoose": "3.8.17",
+    "jade": "1.7.0"
+  },
+  "devDependencies": {
+
+  }
+}
